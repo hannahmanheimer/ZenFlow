@@ -1,6 +1,6 @@
 ## Zenflow: AI powered real time stress monitoring and prediction using EEG and ECG 
 
-### Jayant Sharma, Hannah Manheimer, Yifan Wang, Sami Smayra
+### Hannah Manheimer, Jayant Sharma, Yifan Wang, Sami Smayra
 ### Projects in Biomedical AI - Spring 2025
 
 ### Introduction
